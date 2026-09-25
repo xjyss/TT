@@ -1,0 +1,24 @@
+//https://yogamen.net
+//https://sae8.org
+//https://new.yogamen.net
+//https://www.aabroadband.com
+{
+"作者": "",
+"站名": "sae8视频",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://yogamen.net",
+"数组二次截取": "",
+"数组": "p:.uk-card-media-top||分类--p:.videos-box a",
+"标题": "p:img->alt||分类--\">&& ·",
+"图片": "p:img->src||分类--{{主页url}}/img/uikit-logo.svg",
+"链接": "p:a->href||分类--p:a->href+?page={catePg}",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/search?q={wd}&page={pg}",
+"二级目录": "分类|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "首頁$https://yogamen.net{cateId}/",
+"分类url": "{{主页url}}/cn/{cateId}?page={catePg};;z",
+"分类": "最新$news#自拍黑料吃瓜$category/自拍黑料吃瓜#情色AI$category/情色ai#AV精选$category/AV精选#中文字幕AI消码$category/中文字幕AI消码#稀缺资源$category/稀缺资源#分类$discover"
+}

@@ -1,0 +1,14 @@
+//入口：https://5151md.me主页：https://3xg.cc备用主页：https://njav.sb
+{
+"主页url": "https://5151md.me",
+"分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#制服诱惑$9#强奸乱伦$31#黑料泄密$33#国产精品$35#探花视频$36#欧美女神$38#人妻熟女$40",
+"分类url": "{{主页url}}/index.php/vod/type/id/{cateId}/page/{catePg}.html;;zv",
+"数组":"p:.stui-vodlist__box",
+"图片":"p:a->data-original",
+"标题":"p:a->title",
+"链接":"p:a->href",
+"跳转播放数组":"vod_data\"*{&&}",
+"跳转播放链接":"url\"*\"&&\"",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/index.php/vod/search/page/{pg}/wd/{wd}.html"
+}

@@ -1,0 +1,12 @@
+{
+"直接播放":"1",
+"分类":"全部视频$1#香蕉精品$13#制服诱惑$22#国产视频$6#清纯少女$8#辣妹大奶$9#女同专属$10#素人出演$11#角色扮演$12#人妻熟女$20#日韩剧情$23#经典伦理$21#成人动漫$7#精品二区$14#精品三区$40",
+"分类url":"https://6182103.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;v",
+
+"数组":"p:.wrap a",
+"图片":"p:img->data-original",
+"标题":"p:.km-script->text",
+"链接":"p:a->href",
+"搜索模式": "1",
+"搜索url":"https://x140eukldwmzri.com:58014/index.php/vod/search/page/{pg}/wd/{wd}.html"
+}

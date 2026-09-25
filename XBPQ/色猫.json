@@ -1,0 +1,23 @@
+//https://qqqq556.top/
+{
+"作者": "",
+"站名": "色猫",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://semao132.xyz",
+"数组二次截取": "",
+"数组": "p:.content-list .content-item", 
+"标题": "p:.video-title->text",
+"图片": "p:a->href[工具:源码#<img src=\"截取\"]",
+"链接": "p:a->href[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+"跳转播放数组": "vod_data\"*{&&}",
+"跳转播放链接": "url\"*\"&&\"",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"二级目录": "",
+"二级ID": "",
+"特殊分类链接": "",
+"分类url": "{{主页url}}/index.php/vod/type/id/{cateId}/page/{catePg}.html;;tzv",
+"分类": "国产视频$96#网曝黑料$97#真实乱伦$103#直播裸聊$135#国产传媒$106#糖心vlog$132#少女萝莉$142#熟女少妇$143#国产自拍$123#群P换妻$139#酒店探花$144#偷拍盗摄$141#综合强片$136#醉酒强奸$140#户外野战$138#巨乳诱惑$137#明星换脸$131#日韩中字$114#日韩无码$113#无码素人$133#无码破解$130#欧美视频$121"
+}

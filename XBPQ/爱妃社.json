@@ -1,0 +1,15 @@
+//aifeishe.com  aifeishe.cc  aifei1.top
+{
+"主页url":"https://aifeishe.com[工具:源码#href=\"截取/?]",
+"分类":"91Porn$Porn91#无码仓库$17cuk#AV18$AV18#AvDB仓库$AvDB#BT磁力库$Magnets#Xvideos$Xvideos#Xnxx$Xnxx#磁力巴士$Bus",
+"分类url":"{{主页url}}/list/{cateId}/index/{catePg}.html;;zR",
+"数组":"p:.video-grid a||91Porn,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士--p:.quick-strip a",
+"图片":"p:img->data-src||91Porn,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士--p:img->data-src",
+"标题":"p:img->alt||91Porn,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士--p:a->text",
+"链接":"p:a->href||91Porn,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士--p:a->href+?p={catePg}",
+"嗅探词":"index.m3u8#streamfastpro.com#xvideos-cdn.com#xnxx-cdn.com",
+"二级目录": "91Porn,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士|folder-0-0-H",
+"特殊分类链接": "",
+"搜索模式": "1",
+"搜索url":"{{主页url}}/srym/vodsearch/{wd}----------{pg}---/"
+}

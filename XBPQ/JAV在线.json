@@ -1,0 +1,13 @@
+{
+"主页url": "https://ja02.cc[工具:#源码#href=\"截取/?]",
+"分类":"91Porn$Porn91#M限时回归$miss#无码仓库$17cuk#AV18$AV18#AvDB仓库$AvDB#BT磁力库$Magnets#Xvideos$Xvideos#Xnxx$Xnxx#黄色淘宝$Hsck#磁力巴士$Bus#杏吧资源$xingba#大奶资源$naizi#玉兔资源$yutu#白嫖资源$bp#辣椒资源$lj#奶香资源$new2#森林资源$new3",
+"分类url":"{{主页url}}/list/{cateId}/index/{catePg}.html;;zm",
+"数组": "p:a||91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,黄色淘宝,磁力巴士,杏吧资源,大奶资源,玉兔资源,白嫖资源,辣椒资源,奶香资源,森林资源--p:.cat-wrap a",
+"图片": "p:img->data-src",
+"标题":"p:p->text||91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,黄色淘宝,磁力巴士,杏吧资源,大奶资源,玉兔资源,白嫖资源,辣椒资源,奶香资源,森林资源--p:a->text",
+"链接":"p:a->href||91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,黄色淘宝,磁力巴士,杏吧资源,大奶资源,玉兔资源,白嫖资源,辣椒资源,奶香资源,森林资源--p:a->href+?p={catePg}",
+"二级目录": "91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,黄色淘宝,磁力巴士,杏吧资源,大奶资源,玉兔资源,白嫖资源,辣椒资源,奶香资源,森林资源|folder-0-0-H",
+"搜索模式":"1",
+"搜索url":"{{主页url}}/search/porn91/{wd}/{pg}.html",
+"嗅探词":"index.m3u8#video.m3u8#.m3u8#master.m3u8#hls.m3u8"
+}

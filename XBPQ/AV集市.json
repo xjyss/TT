@@ -1,0 +1,13 @@
+{
+"主页url": "https://jz02.cc[工具:#源码#href=\"截取/?]",
+"分类":"91Porn$Porn91#M限时回归$miss#无码仓库$17cuk#AV18$AV18#AvDB仓库$AvDB#BT磁力库$Magnets#Xvideos$Xvideos#Xnxx$Xnxx#磁力巴士$Bus#杏吧资源$xingba",
+"分类url":"{{主页url}}/list/{cateId}/index/{catePg}.html;;zm",
+"数组": "p:ul li||91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士,杏吧资源--p:.a3-subnav-group a",
+"图片": "p:img->data-original",
+"标题":"p:h4->text||91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士,杏吧资源--p:a->text",
+"链接":"p:.uzimg->href||91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士,杏吧资源--p:a->href+?p={catePg}",
+"二级目录": "91Porn,M限时回归,无码仓库,AV18,AvDB仓库,BT磁力库,Xvideos,Xnxx,磁力巴士,杏吧资源|folder-0-0-H",
+"搜索模式":"1",
+"搜索url":"{{主页url}}/search/AV18/{wd}/{pg}.html",
+"嗅探词":"index.m3u8#video.m3u8#.m3u8#master.m3u8#hls.m3u8"
+}

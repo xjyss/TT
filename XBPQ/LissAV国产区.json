@@ -1,0 +1,14 @@
+{
+"主页url":"https://tktube.nl",
+"分类":"新作上市$videos/new-releases#最近更新$videos/recent#中文字幕$videos/tag/中文字幕#AI成人短剧$videos/genre/AI成人短剧#女优一览$actors#类型$genres#今日热门$videos/hot/today#本周热门$videos/hot/week#本月热门$videos/hot/month#发行商",
+"分类url":"{{主页url}}/domestic/zh-CN/{cateId}/page/{catePg};;zm",
+"二级目录": "女优一览|folder-0-0-H,类型|folder-0-0-H,发行商|folder-0-0-H",
+"特殊分类链接": "发行商${{主页url}}/domestic/zh-CN/videos/genre/麻豆传媒#类型${{主页url}}/domestic/zh-CN/{cateId}",
+"数组":"p:div[class=\"col\"]||女优一览--p:.col||类型--p:.col||发行商--p:ul[id=\"streamit-libnav-domestic-7\"] .nav-item",
+"图片":"p:img->src||女优一览--p:img->src||类型--p:img->src||发行商--p:img->src",
+"标题":"p:img->alt||女优一览--p:h2->text||类型--p:.d-inline-block->text||发行商--p:a->text",
+"链接":"p:a->href||女优一览--p:a->href+/page/{catePg}||类型--p:a->href+/page/{catePg}||发行商--p:a->href+/page/{catePg}",
+"嗅探词":".m3u8#/hls.m3u8#/index.m3u8#/hls/index.m3u8#/91/#video.m3u8",
+"搜索模式": "1",
+"搜索url":"{{主页url}}/domestic/zh-CN/videos/search/{wd}/page/{pg}"
+}

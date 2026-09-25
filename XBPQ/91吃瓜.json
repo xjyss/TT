@@ -1,0 +1,21 @@
+//91吃瓜https://cg.51palu.com
+{
+"作者": "",
+"站名": "91吃瓜",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://m.beijingav.com",
+"数组二次截取": "",
+"数组": "j:data.content",
+"标题": "j:title",
+"图片": "j:thumbnail",
+"链接": "j:videoUrl",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/front/api/v1/search?pageNo={pg}&pageSize=50&kw={wd}",
+"二级目录": "",
+"二级ID": "",
+"特殊分类链接": "",
+"分类url": "{{主页url}}/front/api/v1/posts/listByChannel?pageNo={catePg}&pageSize=20&total=0&channelId={cateId};;z",
+"分类": "热门大瓜$1#网红明星$2#反差女友$7#奇趣百科$6#AI$13"
+}

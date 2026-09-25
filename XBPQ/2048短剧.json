@@ -1,0 +1,23 @@
+//https://mdcmai5.xyz
+{
+"作者": "",
+"主页": "https://mdcmai4.xyz",
+"数组二次截取": "",
+"数组": "j:data.items",
+"标题": "j:title",
+"图片": "https://mdcmai4.xyz+j:coverUrl+\\&size=thumbnail||AI短剧--https://mdcmai4.xyz+j:coverUrl||AV-无码流出--
+https://mdcmai5.xyz/api/v1/image/proxy?path=+j:coverUrl+\\&size=thumbnail",
+"链接": "https://mdcmai4.xyz/api/v1/m3u8/proxy?path=+j:videoUrl||AI短剧--https://mdcmai4.xyz/api/v1/short-dramas/+j:id+\?productId=1",
+"播放数组": "episodes\"*[&&]",
+"播放标题": "title\"*\"&&\"",
+"播放列表": "{&&}",
+"播放链接": "https://mdcmai4.xyz/api/v1/m3u8/proxy?path=+videoUrl\"*\"&&\"",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "https://mdcmai4.xyz/api/v1/videos/search?page={pg}&size=24&q={wd}",
+"二级目录": "",
+"排序": "首播$latest#热播$heat",
+"特殊分类链接": "AI短剧$https://mdcmai4.xyz/api/v1/short-dramas?productId=1&sortBy={by}&page={catePg}&size=12",
+"分类url": "https://mdcmai4.xyz/api/v1/videos?page={catePg}&size=24&categoryId={cateId};;Rv",
+"分类": "AI短剧#AV-中文字幕$2#国产自拍$1#AV-无码流出$8#每日更新$27#反差母狗$21#探花大神$4#91大神$7#麻豆x性吧联合原创$10#清纯少女$13#麻豆原创AI$6#破解偷拍$20#世界杯专栏$28#黑料吃瓜$19#重口调教$14#直播大秀$15#白虎嫩妹$22#网红主播$16#家庭乱伦$23#麻豆传媒$9#媚黑母狗$17#熟女偷情$24#白虎少女$18#网黄原创$25"
+}

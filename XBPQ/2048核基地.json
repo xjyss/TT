@@ -1,0 +1,13 @@
+//https://www.luanlunba.cc/
+{
+"主页url":"https://e7f8g9h0.luanlunba17.cc",
+"分类":"劲爆推荐$1#精品爆料$2#蜜桃传媒$9#皇家华人$10#星空传媒$11#兔子先生$57#糖心Vlog$22#mini传媒$25#网曝黑料$58#华语AV$61#黑料吃瓜$62#主播网红$67#特色仓库$3#强奸乱伦$32#三级伦理$29#SM调教$15#精品资源$69#女同性恋$70#日韩主播$75#中文字幕$76#热播片库$78",
+"分类url":"{{主页url}}/vodtype/{cateId}-{catePg}.html;;zv",
+"数组":"p:.row dl",
+"图片":"p:img->data-original",
+"标题": "p:h3->text",
+"链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+"跳转播放链接":"link_pre\"*\"\"\,\"url\"*\"&&\"[工具:解url]",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/vodsearch/{wd}----------{pg}---.html"
+}

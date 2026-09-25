@@ -1,0 +1,21 @@
+
+{
+"作者": "",
+"站名": "直播",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "http://api.maiyoux.com:81/mf/",
+"分类":"直播$json.txt",
+"分类url":"http://api.maiyoux.com:81/mf/{cateId};;D",
+"数组二次截取": "",
+"数组": "j:zhubo||麻豆传媒--j:pingtai",
+"标题": "j:title||麻豆传媒--j:title",
+"图片": "j:img",
+"链接": "j:address||麻豆传媒--j:address",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "",
+"二级目录": "麻豆传媒|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": ""
+}

@@ -1,0 +1,13 @@
+{
+"主页url": "https://159i.net",
+"分类":"中文字幕$subtitle#亞洲無碼$uncd#國產中文$madou#歐美AV$oua#H動漫$hmmcg#FC2PPV$fc2ppv",
+"分类url":"{{主页url}}/video/{cateId}/p{catePg}.html;;zv",
+"数组":"p:article",
+"图片":"p:video->poster",
+"标题":"p:h2->text",
+"链接":"p:a->href",
+"跳转播放链接": "itemprop=\"contentUrl\" content=\"&&\"",
+"过滤词":".mp4",
+"搜索模式": "1",
+"搜索url":"{{主页url}}/search/{wd}-{pg}.html"
+}

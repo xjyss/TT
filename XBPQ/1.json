@@ -1,0 +1,21 @@
+{
+"站名": "91吃瓜",
+"主页url-c": "https://approve.pojvjzth.com",
+"数组": "p:div[class*=\"row\"] a",
+"标题": "p:h2->text",
+"副标题": "p:.post-card-info span:eq(1)->text[替换:•>>空]",
+"图片": "{{前缀}}+loadBannerDirect('&&'[工具:源码转b64#解密aes-f5d965df75336270-97b60394abc2fbe1-AES/CBC/PKCS7Padding]",
+"前缀": "data:image/jpeg;base64,",
+"链接": "p:a->href",
+"播放数组": "p:.dplayer",
+"播放列表": "p:.data-config",
+"播放标题": "<h2>&&</h2>",
+"播放链接": "url\"*\"&&\"",
+"搜索模式": "1",
+"二级目录": "",
+"二级ID": "",
+"特殊分类链接": "",
+"搜索url": "https://approve.pojvjzth.com/search/{wd}/{pg}/",
+"分类url": "https://approve.pojvjzth.com/category/{cateId}/{catePg}/",
+"分类": "今日吃瓜$zxcghl#最高点击$rsdg#必吃大瓜$bcdg#AI短剧$dydj#每日大赛$mrds#师生专栏$xsjlb#自拍偷拍$zptp#深夜撸片$lpsd#海角乱伦$hjll#网红黑料$whhl#反差靓女$fclv#91探花$91th#网黄合集$gcwh#明星AI$aikj#明星黑料$mxhl#成人动漫$crdm#擦边短剧$dydj#猎奇重口$lqzk#社会奇闻$qwys#往期内容#标签云"
+}

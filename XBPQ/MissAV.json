@@ -1,0 +1,19 @@
+{
+"作者": "",
+"站名": " MissAV",
+"发布页": "",
+"主页url": "https://www.thisav01.cc",
+"分类url": "{{主页url}}{cateId}?page={catePg};;zR",
+"分类": "中文字幕$/dm278/cn/chinese-subtitle#最近更新$/dm529/cn/new#新作上市$/dm608/cn/release#今日热门$/dm292/cn/today-hot#本週热门$/dm169/cn/weekly-hot#本月热门$/dm263/cn/monthly-hot#女优一览$/cn/actresses#类型$/cn/genres#SIRO$/dm36/cn/siro#LUXU$/dm34/cn/luxu#GANA$/dm34/cn/gana#PRESTIGEPREMIUM$/dm1004/cn/maan#S-CUTE$/dm38/cn/scute#ARA$/dm34/cn/ara#无码流出$/dm817/cn/uncensored-leak#FC2$/dm597/cn/fc2#HEYZO$/dm2208642/cn/heyzo#东京热$/dm42/cn/tokyohot#一本道$/dm5199603/cn/1pondo#Caribbeancom$/dm7704788/cn/caribbeancom#Caribbeancompr$/dm91887/cn/caribbeancompr#10musume$/dm7208981/cn/10musume#pacopacomama$/dm3600557/cn/pacopacomama#Gachinco$/dm150/cn/gachinco#XXX-AV$/dm42/cn/xxxav#人妻斩$/dm37/cn/marriedslash#顽皮4610$/dm33/cn/naughty4610#顽皮0930$/dm37/cn/naughty0930#发行商$/cn/makers#麻豆传媒$/dm61/cn/madou#女优排行MAY2026$/cn/actresses/ranking#TWAV$/dm31/cn/twav#Furuke$/dm15/cn/furuke#韩国直播$/cn/klive#中国直播$/cn/clive",
+"二级目录": "女优一览,女优排行MAY2026,类型,发行商,无码影片,素人|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "",
+"数组二次截取": "p:.grid", 
+"数组": "p:.thumbnail||女优一览,女优排行MAY2026--p:div[class=\"space-y-4\"]||类型,发行商--p:.grid div",
+"标题": "p:.text-secondary->text||女优一览,女优排行MAY2026--p:img->alt||类型,发行商--p:a->text",
+"图片": "p:img->data-src||女优一览,女优排行MAY2026--p:img->src||类型,发行商--p:img->src",
+"链接": "p:a->href||女优一览,女优排行MAY2026--p:a->href+?page={catePg}||类型,发行商--p:a->href+?page={catePg}",
+"嗅探词": "/playlist.m3u8#/video.m3u8",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/cn/search/{wd}?page={pg}"
+}

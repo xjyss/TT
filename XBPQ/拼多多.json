@@ -1,0 +1,21 @@
+{
+"作者": "sddww.com",
+"站名": "拼多多",
+"请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 16；； 2510DRK44C Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.192 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://sddww.xyz",
+"数组二次截取": "",
+"数组": "p:.models-videos__col||推荐类型--p:.category-items__col||全部类型--p:.models-wost__col||热门标签--p:.models-wost a",
+"标题": "p:.mb-1->text||推荐类型--p:a->text||全部类型--p:a->text||热门标签--p:a->text",
+"图片": "p:img->src||全部类型--src=\"&&\"",
+"链接": "p:img->data-preview||推荐类型--p:a->href+&p={catePg}||全部类型--p:a->href+&p={catePg}||热门标签--p:a->href+&p={catePg}",
+
+"搜索模式": "1",
+"搜索url": "{{主页url}}/?search={wd}&p={pg}",
+"二级目录": "推荐类型,热门标签|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "推荐类型${{主页url}}#全部类型${{主页url}}/?categories={catePg}.html#热门标签${{主页url}}/?tags-ch-all.html",
+"分类url": "{{主页url}}/{cateId}={catePg}.html;;zvR",
+"分类": "最新视频$?video#推荐类型#热门标签"
+}
+//暂时写成这样吧，有些地方怪怪的。有空再改。

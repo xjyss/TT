@@ -1,0 +1,20 @@
+{
+"作者": "",
+"站名": "Jable",
+"发布页": "",
+"主页url": "https://jable.cfd",
+"分类url": "{{主页url}}/{cateId}/{catePg}/;;zRv",
+"分类": "最新上市$latest-updates#全新上市$new-release#热门影片$hot#影片主题$categories#选女优$models#标签$black-pantyhose",
+"二级目录": "影片主题,选女优,标签|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "影片主题,选女优${{主页url}}/{cateId}/{catePg}/#标签${{主页url}}/tags/{cateId}/",
+"数组二次截取": "",
+"数组": "p:div[class*=\"video-img-box\"]||影片主题--p:div[class*=\"video-img-box\"]||选女优--p:div[class*=\"horizontal-img-box\"]||标签--p:.pb-3 .mb-3",
+"标题": "p:h6->text||影片主题--p:h4->text||选女优--p:h6->text||标签--p:a->text",
+"副标题": "p:span[class*=\"label\"]||影片主题--p:span[class*=\"label\"]||选女优--p:span->text",
+"图片": "p:img->data-src||影片主题--p:img->src||选女优--p:img->src",
+"链接": "p:a->href||影片主题--p:a->href+/{catePg}/||选女优--p:a->href+/{catePg}/||标签--p:a->href+/{catePg}/",
+"跳转播放链接": "var hlsUrl = \'&&\'",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/search{wd}/{pg}/"
+}

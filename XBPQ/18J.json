@@ -1,0 +1,72 @@
+//https://18fby.life/18j/
+{
+"作者": "",
+"站名": "18J",
+"主页url": "https://18sa.life",
+"数组二次截取": "",
+"数组": "p:.box||演员--p:ul[class=\"list\"] a",
+"标题": "p:a->title||演员--p:h2->text",
+"图片": "p:img->data-original||演员--p:img->data-original",
+"链接": "p:a->href||演员--p:a->href+?page={catePg}",
+"跳转播放链接": "source=\'&&\'",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/s/page/{pg}/wd/{wd}/",
+"二级目录": "演员|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "演员${{主页url}}/modol/by/hits_week/id/{cateId}/page/{catePg}/",
+"分类url": "{{主页url}}/show/{cateId}/by/{by}/page/{catePg}/;;zv",
+"分类": "国产$1#日韩$2#成人AI$41#动漫$5#另类$6#伦理$4#欧美$3#演员$8",
+"筛选":{
+"1":[
+{"key":"cateId","name":"分类","value":[
+{"n":"国产自拍","v":"12"},
+{"n":"网爆吃瓜","v":"13"},
+{"n":"探花约炮","v":"14"},
+{"n":"主播诱惑","v":"15"},
+{"n":"乱伦侵犯","v":"16"},
+{"n":"偷拍偷窥","v":"17"},
+{"n":"成人抖音","v":"18"},
+{"n":"国产AV","v":"19"},
+{"n":"福利姬","v":"20"}]},
+{"key":"by","name":"排序","value":[
+{"n":"最新","v":"time"},
+{"n":"日榜","v":"hits_day"},
+{"n":"周榜","v":"hits_week"},
+{"n":"总榜","v":"hits_month"}]}],
+"2":[
+{"key":"cateId","name":"分类","value":[
+{"n":"日韩自拍","v":"21"},
+{"n":"日韩无码","v":"22"},
+{"n":"中文字幕","v":"23"},
+{"n":"av解说","v":"24"}]},
+{"key":"by","name":"排序","value":[
+{"n":"最新","v":"time"},
+{"n":"日榜","v":"hits_day"},
+{"n":"周榜","v":"hits_week"},
+{"n":"总榜","v":"hits_month"}]}],
+"3":[
+{"key":"by","name":"排序","value":[
+{"n":"最新","v":"time"},
+{"n":"日榜","v":"hits_day"},
+{"n":"周榜","v":"hits_week"},
+{"n":"总榜","v":"hits_month"}]}],
+"4":[
+{"key":"cateId","name":"分类","value":[
+{"n":"港台伦理","v":"26"},
+{"n":"日韩伦理","v":"27"},
+{"n":"欧美伦理","v":"28"}]},
+{"key":"by","name":"排序","value":[
+{"n":"最新","v":"time"},
+{"n":"日榜","v":"hits_day"},
+{"n":"周榜","v":"hits_week"},
+{"n":"总榜","v":"hits_month"}]}],
+"16":[
+{"key":"cateId","name":"分类","value":[
+{"n":"剧集动漫","v":"29"},
+{"n":"3D动漫","v":"30"}]},
+{"key":"by","name":"排序","value":[
+{"n":"最新","v":"time"},
+{"n":"日榜","v":"hits_day"},
+{"n":"周榜","v":"hits_week"},
+{"n":"总榜","v":"hits_month"}]}]}
+}

@@ -1,0 +1,17 @@
+//ovoav.cc
+{
+"站名": "OVOAV",
+"主页url": "https://ovojav10.cc",
+"数组": "p:div[class=\"thumb--videos\"]||标签--p:.list-tags li||分类--p:.container .item",
+"标题": "p:a->title||标签--p:a->text||分类--p:a->title",
+"图片": "p:img->src||标签--p:a||分类--p:img->src",
+"链接": "p:a->href||标签,分类,频道--p:a->href+{catePg}/",
+"跳转播放链接": "video_url* \'&&\'",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/search/{wd}/{pg}/",
+"二级目录": "女优|folder-0-0-H#分类|folder-0-0-H#频道|folder-0-0-H#标签|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "标签${{主页url}}/{cateId}/",
+"分类url": "{{主页url}}/{cateId}/{catePg}/;;zvR",
+"分类": "视频$videos#女优$models#分类$categories#频道$channels#标签$tags"
+}

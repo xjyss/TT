@@ -1,0 +1,21 @@
+//https://www.hsck.sbs
+{
+"作者": "h",
+"站名": "黄色仓库",
+"发布页": "",
+"主页url": "https://www.hsck.nl/enter",
+"数组二次截取": "",
+"分类": "中字$2#日韩$5#国产$3#欧美$4#麻豆$1",
+"分类url": "https://www.hsck.nl/index.php/vod/type/id/{cateId}/page/{catePg}.html;;zvR",
+"数组":"p:.stui-vodlist__box",
+"图片":"p:a->data-original",
+"标题":"p:a->title",
+"链接":"p:a->href",
+"跳转播放链接": "scrolling=\"no\" src=\"https://player.centercdn.top/player.html?video_url=&&\"[工具:解url]",
+"搜索模式": "1",
+"搜索url": "https://www.hsck.nl/index.php/vod/search/page/{pg}/wd/{wd}.html",
+"特殊分类链接": ""
+}
+
+
+//&人妻以后的内容为自定义搜索内容。可按需改动。在"类型":的最后添加A&B&C&D即可。不限词条不限数量。如&人妻&瑜伽裤&白虎。

@@ -1,0 +1,22 @@
+{
+"作者": "",
+"站名": "18AV",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://mjv005.com/zh/chinese_IamOverEighteenYearsOld/19/index.html",
+"二次截取": "",
+"数组": "p:.post||类别清单--p:.post||每日更新--p:.history_update_cbg2 a[包含:2026]||无码AV--\">無碼AV</a>&&</ul>[工具:分割(后:<li>)]",
+"标题": "p:h3->text||类别清单--p:a->text||每日更新--p:a->text||无码AV--p:a->text",
+"图片": "p:img->src||类别清单--p:a||每日更新--p:img->src||无码AV--p:img->src",
+"链接": "p:a->href||类别清单--p:a->href+/{catePg}.html||每日更新--p:a->href||无码AV--p:a->href+/{catePg}.html",
+"跳转播放链接": "#document（&&）",
+"嗅探词": "",
+//"线路标题": "在线播放",
+"搜索模式": "1",
+"搜索url": "https://mjv005.com/zh/fc_search/all/{wd}/{pg}.html",
+"二级目录": "类别清单|folder-0-0-H#每日更新|folder-0-0-H#无码AV|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "类别清单$https://mjv005.com/zh/{cateId}/list/index.html#每日更新$https://mjv005.com/zh/{cateId}/all/2026-08-19.html",
+"分类url": "https://mjv005.com/zh/{cateId}/all/{catePg}.html;;zv",
+"分类": "中文字幕AV$chinese_random#类别清单$chinese_categorylist#有码AV$censored_random#每日更新$content_news#无码AV$uncensored_random#素人AV$amateurjav_random#无码破解$reducing-mosaic_random#国产自拍$dt_random#H动画,H动漫$animation_random#H有码动画$CensoredAnimation_random#H无码动画$UncensoredAnimation_random#H_3D动画$tdAnimation_random"
+}

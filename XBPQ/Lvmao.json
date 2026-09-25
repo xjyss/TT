@@ -1,0 +1,23 @@
+//地址发布页：https://lvmao.tv最新地址1：https://www.8z9ztk.vip最新地址2：https://www.ihp2tp.vip最新地址3：https://www.6x7qv0.vip找回地址邮箱：lvmaodizhi@gmail.com
+{
+"作者": "",
+"站名": "lvmao",
+"请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+"发布页": "",
+"主页url": "https://www.jeiiwv.vip",
+"分类url": "{{主页url}}/category/{cateId}/page/{catePg}/;;zv",
+"分类": "大陆$1#日韩$2#三级$5#动画$4#欧美$3#标签",
+"二级目录": "标签|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "标签${{主页url}}/tags/{cateId}",
+"数组二次截取": "",
+"数组": "p:a||标签--p:div[class*=\"tags-inner\"] a",
+"标题": "p:img->alt||标签--p:a->text",
+"副标题": "p:span[class*=\"label\"]",
+"图片": "p:img->data-src",
+"链接": "p:a->href||标签--p:a->href+/page/{catePg}/",
+"跳转播放链接": "data-m3u8 = \"&&\"",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/search/{wd};;post"
+}

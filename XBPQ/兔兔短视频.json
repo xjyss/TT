@@ -1,0 +1,14 @@
+{
+"分类":"母狗$母狗#福利$福利#高潮$高潮#黑丝$黑丝#标签",
+"分类url":"https://aaa.tututu.rest/tu/tag/{cateId}/page/{catePg};;zvD",
+"数组":"p:.gridlane-posts a[替换:\\#>>]||标签--p:.tagcloud a",
+"图片":"p:img->src",
+"标题":"p:img->title||标签--p:a->text",
+"链接":"p:a->href||标签--p:a->href",
+"跳转播放数组": "p:.entry-content",
+"跳转播放链接": "src=\"&&\"",
+"二级目录": "标签|folder-0-0-H",
+"特殊分类链接": "标签${{主页url}}",
+"搜索模式": "1",
+"搜索url":"/index.php/vod/search/page/{pg}/wd/{wd}.html"
+}

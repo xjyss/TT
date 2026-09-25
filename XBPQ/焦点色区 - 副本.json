@@ -1,0 +1,14 @@
+//https://www.jdsq.club https://www.jdsq.cc
+{
+"主页url": "https://www.jdsq.club",
+"分类":"私房自拍$sifangzipai#日本无码$ribenwuma#中文字幕$zhongwenzimu#卡通动画$katongdonghua#果冻传媒$guodongchuanmei#天美传媒$tianmeichuanmei#蜜桃传媒$mitaochuanmei#星空传媒$xingkongchuanmei#爱豆传媒$aidouchuanmei#SA国际$SAguoji#其他传媒$qitachuanmei#兔子先生$tuzixiansheng",
+"分类url":"{{主页url}}/srym/category/{cateId}-{catePg}/;;zv",
+"数组":"class=\"item\">&&</a>",
+"图片":"data-original=\"&&\"",
+"标题":"alt=\"&&\"",
+"副标题":"<span class=\"mat-icon\">access_time</span>&&</div>",
+"链接":"href=\"&&\"",
+"跳转播放链接": "},\"url\"*\"&&\"",
+"搜索模式": "1",
+"搜索url":"{{主页url}}/srym/vodsearch/{wd}----------{pg}---/"
+}

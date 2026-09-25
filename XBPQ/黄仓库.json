@@ -1,0 +1,13 @@
+//hsck10.25img.com 本站易记域名：www.hsck.la最新国内地址：hsck69.com
+{
+"主页url": "https://hsck10.25img.com",
+"分类":"国产新片$ycgc#国产精品$gcjp#无码中文字幕$wz#有码中文字幕$yz#日本无码$rw#日本有码$ry#骑兵破解$qp#国产视频$gc#动漫剧情$dm",
+"分类url":"{{主页url}}/?type={cateId}&p={catePg};;zv",
+"数组":"p:.stui-vodlist__box",
+"图片":"p:a->data-original",
+"标题":"p:a->title",
+"链接":"p:a->href",
+"跳转播放链接": "jpg\" src=\"&&\"",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/?search2=ndafeoafa&search={wd}"
+}

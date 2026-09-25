@@ -1,0 +1,14 @@
+//本站易记域名：www.hsbk.cc最新国内地址：www.bk567.cc备用域名地址：www.bk678.cc发布页地址：www.000008.cc
+{
+"主页url": "https://www.bk678.cc",
+"分类":"无码中文字幕$5#有码中文字幕$6#日本无码$7#日本有码$8#国产视频$9#欧美高清$10#动漫剧情$11",
+"分类url":"{{主页url}}/vodtype/{cateId}-{catePg}/;;zv",
+"数组":"p:.stui-vodlist__box",
+"图片":"p:a->data-original",
+"标题":"p:a->title",
+"链接":"p:a->href",
+"跳转播放数组": "class=\"stui-player__video clearfix\"&&</script>",
+"跳转播放链接": "url\"*\"&&\"",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/vodsearch/{wd}----------{pg}---/"
+}

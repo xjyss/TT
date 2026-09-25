@@ -1,0 +1,15 @@
+//av.avav2.lol
+{
+"主页url":"https://xn--0912-3tianlailat-qy21b.tianlai107.shop",
+"分类":"雄狮$sh#精品$jp#Hsck$Hsck#Xnxx$xnxx#Xvideos$xvs#91国产$p91#9109$p91404#JavB(种)$javbus#JavD(种)$javdb#Javtt$javxx#Javpp$supjav#18AV$18av",
+"分类url":"{{主页url}}/?m=list&u={cateId}&k=&p={catePg};;zm",
+"数组":"p:.video-grid a||雄狮,精品,Hsck,Xnxx,Xvideos,91国产,9109,JavB(种),JavD(种),Javtt,Javpp,18AV--p:.type-nav a",
+"图片":"p:img->src",
+"标题":"p:img->alt||雄狮,精品,Hsck,Xnxx,Xvideos,91国产,9109,JavB(种),JavD(种),Javtt,Javpp,18AV--p:a->text",
+"链接":"p:a->href||雄狮,精品,Hsck,Xnxx,Xvideos,91国产,9109,JavB(种),JavD(种),Javtt,Javpp,18AV--p:a->href+&p={catePg}",
+"嗅探词":"/hls.m3u8#/index.m3u#.m3u8#/91/#video.m3u8",
+"二级目录": "雄狮,精品,Hsck,Xnxx,Xvideos,91国产,9109,JavB(种),JavD(种),Javtt,Javpp,18AV|folder-0-0-H",
+ "特殊分类链接": "Xnxx${{主页url}}/?m=list&u=xnxx&k=month_list",
+"搜索模式": "1",
+"搜索url":"{{主页url}}/?m=searchall&k={wd}"
+}

@@ -1,0 +1,22 @@
+//最新域名：https://www.xxav2304.sbs/ 防丢失：https://tt.ikundizhi.com/
+{
+"作者": "",
+"站名": "XXAV",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://www.xxav2304.sbs",
+"数组二次截取": "",
+"数组": "j:data.list",
+"标题": "j:name",
+"图片": "{{主页url}}+j:picture",
+"链接": "j:id",
+"链接前缀": "{{主页url}}/api/play/m3u8?v=2&id=",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/api/searchFilm?keyword={wd}&current={pg}&pageSize=24",
+"二级目录": "",
+"二级ID": "",
+"特殊分类链接": "",
+"分类url": "{{主页url}}/api/filmClassifySearch?Pid={cateId}&Category=&current={catePg};;zv",
+"分类": "国产$1#日本$2#欧美$3#动漫$4"
+}

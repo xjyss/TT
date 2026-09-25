@@ -1,0 +1,13 @@
+{
+"直接播放":"1",
+"分类":"今日黑料$269#热门大瓜$267#历史黑料$266#擦边短剧$351#网红乱象$264#反差女友$262#校园春宫$341#官员干部$343#中外奇闻$345#社会新闻$347#明星丑闻$348",
+"分类url":"https://d3k4e7spixznr4.cloudfront.net/api/video/getList?channel=hlwcmys&id={cateId}&page={catePg}&size=10&type=label&only_topic=0",
+"数组二次截取": "list\":[&&]",
+"数组":"{&&}",
+"图片": "upload_thumb\"*\"&&\",",
+"标题": "title\"*\"&&\",",
+"链接": "href\"*\"&&\",",
+"副标题": "label\"*\"&&\,[替换:\">>空]",
+"搜索模式": "1",
+"搜索url":"https://heliao88.com/api/video/search?channel=hlwcmys&keyword={wd}&page={pg}&size=10"
+}

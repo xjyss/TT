@@ -1,0 +1,23 @@
+//https://m1.kanav.fun https://kanav.ad
+{
+"作者": "",
+"站名": "KanAV",
+"请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+"发布页": "",
+"主页url": "https://v1.kanav.world",
+"数组二次截取": "",
+"数组": "p:.featured-content-image||标签大全--target=\"_blank\">性騷擾</a>&&target=\"_blank\">性騷擾</a>分割(前:<a)[不包含:高畫質#中出#DMM獨家#4K#單體作品#巨乳#妄想族]",
+"标题": "p:img->alt||标签大全--p:a->text",
+"图片": "p:img->src",
+"链接": "p:a->href||标签大全--p:a->href+?page={catePg}",
+"跳转播放链接":"vod_class\"*\"\"},\"url\"*\"&&\"[工具:解b64#解url]",
+"过滤词":".mp4",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/index.php/vod/search/by/time_add/page/{pg}/wd/{wd}.html",
+"二级目录": "标签大全|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "热门${{主页url}}/index.php/label/{cateId}.html#标签大全${{主页url}}/index.php/label/{cateId}.html",
+"分类url": "{{主页url}}/index.php/vod/type/id/{cateId}/page/{catePg}.html;;zROv",
+"分类": "热门$hot#中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#标签大全$tags"
+}

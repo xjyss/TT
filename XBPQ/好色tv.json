@@ -1,0 +1,24 @@
+{
+//https://91porn.cyou
+//回家地址 → https://hsex.tv/
+//https://hsex.icu/
+"作者": "",
+"站名": "好色tv",
+//"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 14; V2136A Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7632.159 Mobile Safari/537.36",
+"发布页": "",
+"主页url": "https://pb365.nl",
+"数组二次截取": "",
+"数组": "p:a||热搜--p:.hot_search a",
+"标题": "p:.image->title||热搜--p:a->text",
+"图片": "url(\'&&\')",
+"链接": "p:a->href||热搜--p:a->href[替换:search.htm>>search-{catePg}.htm]",
+"跳转播放链接": "scrolling=\"no\" src=\"https://player.centercdn.top/player.html?video_url=&&\\&poster[工具:解url]",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/search-{pg}.htm?search={wd}",
+"二级目录": "热搜|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "热搜$https://hsex1.sbs/enter",
+"排序": "最热$hot||空||空||最热$hot||最热$hot",
+"分类url": "{{主页url}}/{cateId}-{catePg}.htm?sort={by};;zvR1",
+"分类": "最新$list#周榜$top7_list#月榜$top_list#5分钟+$5min_list#10分钟+$long_list#热搜"
+}

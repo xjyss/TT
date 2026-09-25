@@ -1,0 +1,21 @@
+{
+"作者": "",
+"站名": "P站视频",
+"主页url": "https://551421.xyz",
+"发布页": "",
+"数组二次截取": "",
+"数组": "p:article",
+"标题": "p:img->alt",
+"副标题": "p:.post-meta->text",
+"图片": "p:img->src",
+"链接": "p:a->href",
+"跳转播放链接": "contentUrl\" content=\"&&\"",
+"过滤词": ".mp4",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/page/{pg}/?s={wd}",
+"二级目录": "",
+"二级ID": "",
+"特殊分类链接": "",
+"分类url": "{{主页url}}/{cateId}/page/{catePg}/;;zv",
+"分类": "自拍$zipai#FC2$fc2#日韓$rihan#歐美$oumei#國產$guochan#制服$zhifu#主播$zhubo"
+}

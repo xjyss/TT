@@ -1,0 +1,23 @@
+//https://xxvv1.tw https://mtyyfe.cc
+{
+"作者": "",
+"站名": "蜜桃影院",
+"请求头": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+"发布页": "",
+"主页url": "https://mtyyfe.cc",
+"数组二次截取": "",
+"数组": "p:.fg-category-grid .fg-card--ad||少女--aria-expanded=\"false\">少女</a>&&</ul>分割(前:<li>)||廠牌--aria-expanded=\"false\">廠牌</a>&&</ul>分割(前:<li>)||麻豆傳媒映畫--aria-expanded=\"false\">麻豆傳媒映畫</a>&&</ul>分割(前:<li>)||麻友探花合集--aria-expanded=\"false\">麻友&&</ul>分割(前:<li>)||直播--aria-expanded=\"false\">直播</a>&&</ul>分割(前:<li>)||亂倫圈--aria-expanded=\"false\">亂倫圈</a>&&</ul>分割(前:<li>)||次元动漫--aria-expanded=\"false\">次元&&</ul>分割(前:<li>)||AV--aria-expanded=\"false\">AV</a>&&</ul>分割(前:<li>)||歐美--aria-expanded=\"false\">歐美</a>&&</ul>分割(前:<li>)",
+"标题": "p:img->alt||少女,廠牌,麻豆傳媒映畫,麻友探花合集,直播,亂倫圈,次元动漫,AV,歐美--p:a->text",
+"副标题": "p:span->text",
+"图片": "p:img->data-src",
+"链接": "p:a->href||少女,廠牌,麻豆傳媒映畫,麻友探花合集,直播,亂倫圈,次元动漫,AV,歐美--p:a->href+{catePg}/",
+"跳转播放链接": "https://d32bg2g0w9aqg4.cloudfront.net+rawPath\"*\"&&\"",
+"嗅探词": "",
+"搜索模式": "1",
+"搜索url": "{{主页url}}/search/{wd}/{pg}/",
+"二级目录": "少女,廠牌,麻豆傳媒映畫,麻友探花合集,直播,亂倫圈,次元动漫,AV,歐美|folder-0-0-H",
+"二级ID": "",
+"特殊分类链接": "最新${{主页url}}/category/newUpdate/{catePg}/",
+"分类url": "{{主页url}}/category/{cateId}/;;zv",
+"分类": "最新#少女$cate29#廠牌$cate40#麻豆傳媒映畫$cate58#麻友探花合集$cate68#直播$cate77#亂倫圈$cate84#次元动漫$cate92#AV$cate101#歐美$cate117"
+}

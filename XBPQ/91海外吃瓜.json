@@ -1,0 +1,15 @@
+//https://www.91hwsp.vip/
+{
+"主页url-c":"https://www.91hwsp.vip[工具:源码#<a href=\"截取\"]",
+"分类":"排行榜$hot#热门标签$tags#国产专区$category/guochanzhuanqu#传媒视频$chuanmeishipin#日本AV$category/riben#三级伦理$category/sanjilunli#吃瓜黑料$category/chiguaheiliao#SM调教$category/tiaojiao#女同系列$category/nvtongxilie#男同系列$category/nantongxilie",
+"分类url":"{{主页url-c}}/{cateId}page/{catePg}/;;zv",
+"数组":"p:li||热门标签--p:.tags-cloud a||传媒视频--p:.nav-dropdown-menu a[不包含:日本无码#日本有码#中字无码#中字有码]||日本AV--p:.nav-dropdown-menu a[包含:日本无码#日本有码#中字无码#中字有码]",
+"图片":"p:img->src",
+"标题":"p:a->title||热门标签--p:a->title||传媒视频--p:a->text||日本AV--p:a->text",
+"链接":"p:a->href||热门标签--p:a->href+/page/{catePg}||传媒视频--p:a->href+/page/{catePg}||日本AV--p:a->href+/page/{catePg}",
+"跳转播放链接":"contentUrl\"*\"&&\"",
+"二级目录":"热门标签,传媒视频,日本AV|folder-0-0-H",
+"特殊分类链接": "热门标签,排行榜${{主页url-c}}{cateId}/",
+"搜索模式": "1",
+"搜索url":"{{主页url-c}}search.html?q={wd}&page={pg}"
+}
